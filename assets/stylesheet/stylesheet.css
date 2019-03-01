@@ -1,0 +1,58 @@
+* {
+	margin: 0px:
+	padding: 0px;
+}
+
+li {
+	display: inline;
+	float: left;
+	padding: 8px 12px;
+	margin-top: 4px;
+}
+
+.right{
+	display: inline;
+	float: right;
+	
+	margin-top: 1px;
+}
+
+.nav {
+	top: 0;
+	widht: 100%;
+	height: 50px;
+	border-bottom:5px inset gray;
+	background: orange;
+	position: relative;
+	
+}
+
+#logo {
+	height: 25px;
+}
+
+.video {
+	display: inline-block; 
+	position: relative;
+	background: red;
+	top: 15px;
+	left: 90px;
+	border: 10px solid red;
+	height: 400px;
+
+}
+
+p {
+	font-size: 30px;
+	color: black;
+}
+
+.coment_box {
+	
+	display: inline-block;
+	position: relative:
+	background: brown;
+	bottom: 0;
+	left: 90px;
+	height: 400px;
+}
